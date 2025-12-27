@@ -1,7 +1,5 @@
 # Fraud-detection-in-fastag-payments
 
-# FASTag Fraud Detection System
-
 ### Machine Learning–Based Fraud Detection with Streamlit Dashboard
 
 ---
